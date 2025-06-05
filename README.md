@@ -1,7 +1,7 @@
 # FIML_project
 
 Alors que les systèmes d'apprentissage automatique sont de plus en plus adoptés pour des prises de décision à fort impact, leur manque d'impartialité devient préoccupant. En effet, ils peuvent occasionner de nombreux types de préjudices.
-C'est ce que nous verrons en travaillant sur l'étude de cas de COMPAS (\textit{Correctional Offender Management Profiling for Alternative Sanctions}). COMPAS est un outil de gestion de cas et d'aide à la décision utilisé par les tribunaux américains pour évaluer la probabilité qu'un défendeur devienne récidiviste.\\
+C'est ce que nous verrons en travaillant sur l'étude de cas de COMPAS ($\textit{Correctional Offender Management Profiling for Alternative Sanctions}$). COMPAS est un outil de gestion de cas et d'aide à la décision utilisé par les tribunaux américains pour évaluer la probabilité qu'un défendeur devienne récidiviste.\\
 Dans ce projet, nous voulons comprendre ce qui rend un modèle d'apprentissage automatique impartial et dans le cas contraire comment y remédier.
 Il est ainsi nécessaire d'examiner comment ces modèles peuvent formaliser les préjugés et ce qui peut être envisagé pour corriger les prédictions biaisées.
 
